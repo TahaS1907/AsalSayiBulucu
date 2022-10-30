@@ -1,2 +1,2 @@
-# AsalSayiBulucu
+# PrimeNumberFinder
 [Patika](www.patika.dev)
